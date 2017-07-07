@@ -1,0 +1,59 @@
+#wrapper{
+	margin: 0;
+	overflow: auto;
+}
+#header{
+	margin: 0;
+	overflow: auto;
+}
+#header-top{
+	margin: 0;
+	overflow: auto;
+}
+#wrapper-menu{
+	margin: 0;
+	overflow: auto;
+}
+#menu{
+	margin: 0;
+	overflow: auto;
+}
+#menu li{
+	float:left;
+}
+#menu li a{
+	flost:left
+}
+#menu li a.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+#menu li a.fa:hover {
+    opacity: 0.7;
+}
+#menu li a.fa-facebook {
+  background: #55ACEE;
+  color: white;
+}
+#menu li a.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+#menu li a.fa-google+{
+  background: #55ACEE;
+  color: white;
+}
+#menu li a.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
+#menu li a.fa-prentest {
+  background: #55ACEE;
+  color: white;
+}

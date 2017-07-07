@@ -1,0 +1,63 @@
+body{
+margin:0;
+font-family: arial;
+font-size: 14px';
+}
+#warper {
+width: 960px;
+overflow:0;
+margin: 0;
+}
+#header{
+width: auto;
+overflow: auto;
+}
+#header-top{
+width: auto;
+overflow: auto;
+}
+#header-middle{
+width: auto;
+overflow: auto;
+}
+#header-bottom{
+width: auto;
+overflow: auto;
+}
+#logo{
+width: 480px;
+float: left;
+margin: 10px;
+}
+#logo h1{
+margin: 0;
+padding: 0;
+font-size: 45px;
+font-style: italic;
+font-weight: 100;
+}
+# menu-wraper{
+	width: auto;
+	overflow: auto;
+	background: black;
+	border-radius: 5px;
+}
+#menu{
+	margin: 0;
+	padding: 0;
+	
+}
+#menu 1i{
+	list-style: none;
+	float: left;
+	
+}
+#content{
+width: auto;
+overflow: auto;
+}
+#footer{
+width: auto;
+overflow: auto;
+}
+
