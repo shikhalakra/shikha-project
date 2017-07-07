@@ -1,0 +1,15 @@
+<html>
+<head>
+<tittle>abc</tittle>
+</head>
+<body>
+
+
+
+<p><pre style="color:red">myself shikha.
+I live in m.nagar.
+my hometown is shamli.
+ </pre></p>
+
+</body>
+</html>
